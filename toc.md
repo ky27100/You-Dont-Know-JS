@@ -84,7 +84,7 @@
 
 ---
 ## Up & Going
-* Chapter 1: Into Programming
+* [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
 	* Code
 	* Try It Yourself
 	* Operators
@@ -96,7 +96,7 @@
 	* Loops
 	* Functions
 	* Practice
-* Chapter 2: Into JavaScript
+* [Chapter 2: Into JavaScript](up\%20&\%20going/ch2.md)
 	* Values & Types
 	* Variables
 	* Conditionals
@@ -106,13 +106,13 @@
 	* Prototypes
 	* Old & New
 	* Non-JavaScript
-* Chapter 3: Into YDKJS
+* [Chapter 3: Into YDKJS](up\%20&\%20going/ch3.md)
 	* Scope & Closures
 	* this & Object Prototypes
 	* Types & Grammar
 	* Async & Performance
 	* ES6 & Beyond
-* Appendix A: Acknowledgments
+* [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
 
 ## Scope & Closures
 * Chapter 1: What is Scope?
