@@ -18,12 +18,7 @@
 * ES.Next & Beyond (not yet started)
 ---
 ## Get Started - 2nd
-*[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
-
-[Table of Contents](toc.md)
-
-* [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))
-* [Preface](../preface.md)
+*[Table of Contents](toc.md) / [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
 * [Chapter 2: Surveying JS](get-started/ch2.md)
 * [Chapter 3: Digging to the Roots of JS](get-started/ch3.md)
