@@ -148,60 +148,60 @@
 	* Why `this`?
 	* Confusions
 	* What's `this`?
-* Chapter 2: `this` All Makes Sense Now!
+* [Chapter 2: *this* All Makes Sense Now!](this\%20&\%20object\%20prototypes/ch2.md)
 	* Call-site
 	* Nothing But Rules
 	* Everything In Order
 	* Binding Exceptions
 	* Lexical `this`
-* Chapter 3: Objects
+* [Chapter 3: Objects](this\%20&\%20object\%20prototypes/ch3.md)
 	* Syntax
 	* Type
 	* Contents
 	* Iteration
-* Chapter 4: Mixing (Up) "Class" Objects
+* [Chapter 4: Mixing (Up) "Class" Objects](this\%20&\%20object\%20prototypes/ch4.md)
 	* Class Theory
 	* Class Mechanics
 	* Class Inheritance
 	* Mixins
-* Chapter 5: Prototypes
+* [Chapter 5: Prototypes](this\%20&\%20object\%20prototypes/ch5.md)
 	* `[[Prototype]]`
 	* "Class"
 	* "(Prototypal) Inheritance"
 	* Object Links
-* Chapter 6: Behavior Delegation
+* [Chapter 6: Behavior Delegation](this\%20&\%20object\%20prototypes/ch6.md)
 	* Towards Delegation-Oriented Design
 	* Classes vs. Objects
 	* Simpler Design
 	* Nicer Syntax
 	* Introspection
-* Appendix A: ES6 `class`
-* Appendix B: Acknowledgments
+* [Appendix A: ES6 *class*](this\%20&\%20object\%20prototypes/apA.md)
+* [Appendix B: Thank You's!](this\%20&\%20object\%20prototypes/apB.md)
 
 ## Types & Grammar
-* Chapter 1: Types
+* [Chapter 1: Types](types\%20&\%20grammar/ch1.md)
 	* A Type By Any Other Name...
 	* Built-in Types
 	* Values as Types
-* Chapter 2: Values
+* [Chapter 2: Values](types\%20&\%20grammar/ch2.md)
 	* Arrays
 	* Strings
 	* Numbers
 	* Special Values
 	* Value vs Reference
-* Chapter 3: Natives
+* [Chapter 3: Natives](types\%20&\%20grammar/ch3.md)
 	* Internal `[[Class]]`
 	* Boxing Wrappers
 	* Unboxing
 	* Natives as Constructors
-* Chapter 4: Coercion
+* [Chapter 4: Coercion](types\%20&\%20grammar/ch4.md)
 	* Converting Values
 	* Abstract Value Operations
 	* Explicit Coercion
 	* Implicit Coercion
 	* Loose Equals vs Strict Equals
 	* Abstract Relational Comparison
-* Chapter 5: Grammar
+* [Chapter 5: Grammar](types\%20&\%20grammar/ch5.md)
 	* Statements & Expressions
 	* Operator Precedence
 	* Automatic Semicolons
@@ -209,23 +209,23 @@
 	* Function Arguments
 	* `try..finally`
 	* `switch`
-* Appendix A: Mixed Environment JavaScript
-* Appendix B: Acknowledgments
+* [Appendix A: Mixed Environment JavaScript](types\%20&\%20grammar/apA.md)
+* [Appendix B: Thank You's!](types\%20&\%20grammar/apB.md)
 
 ## Async & Performance
-* Chapter 1: Asynchrony: Now & Later
+* [Chapter 1: Asynchrony: Now & Later](async\%20&\%20performance/ch1.md)
 	* A Program In Chunks
 	* Event Loop
 	* Parallel Threading
 	* Concurrency
 	* Jobs
 	* Statement Ordering
-* Chapter 2: Callbacks
+* [Chapter 2: Callbacks](async\%20&\%20performance/ch2.md)
 	* Continuations
 	* Sequential Brain
 	* Trust Issues
 	* Trying To Save Callbacks
-* Chapter 3: Promises
+* [Chapter 3: Promises](async\%20&\%20performance/ch3.md)
 	* What is a Promise?
 	* Thenable Duck-Typing
 	* Promise Trust
@@ -234,7 +234,7 @@
 	* Promise Patterns
 	* Promise API Recap
 	* Promise Limitations
-* Chapter 4: Generators
+* [Chapter 4: Generators](async\%20&\%20performance/ch4.md)
 	* Breaking Run-to-completion
 	* Generator'ing Values
 	* Iterating Generators Asynchronously
@@ -243,26 +243,26 @@
 	* Generator Concurrency
 	* Thunks
 	* Pre-ES6 Generators
-* Chapter 5: Program Performance
+* [Chapter 5: Program Performance](async\%20&\%20performance/ch5.md)
 	* Web Workers
 	* SIMD
 	* asm.js
-* Chapter 6: Benchmarking & Tuning
+* [Chapter 6: Benchmarking & Tuning](async\%20&\%20performance/ch6.md)
 	* Benchmarking
 	* Context Is King
 	* jsPerf.com
 	* Writing Good Tests
 	* Microperformance
 	* Tail Call Optimization (TCO)
-* Appendix A: *asynquence* Library
-* Appendix B: Advanced Async Patterns
-* Appendix C: Acknowledgments
+* [Appendix A: Library: asynquence](async\%20&\%20performance/apA.md)
+* [Appendix B: Advanced Async Patterns](async\%20&\%20performance/apB.md)
+* [Appendix C: Thank You's!](async\%20&\%20performance/apC.md)
 
 ## ES6 & Beyond
-* Chapter 1: ES? Now & Future
+* [Chapter 1: ES? Now & Future](es6\%20&\%20beyond/ch1.md)
 	* Versioning
 	* Transpiling
-* Chapter 2: Syntax
+* [Chapter 2: Syntax](es6\%20&\%20beyond/ch2.md)
 	* Block-Scoped Declarations
 	* Spread / Rest
 	* Default Parameter Values
@@ -275,27 +275,27 @@
 	* Number Literal Extensions
 	* Unicode
 	* Symbols
-* Chapter 3: Organization
+* [Chapter 3: Organization](es6\%20&\%20beyond/ch3.md)
 	* Iterators
 	* Generators
 	* Modules
 	* Classes
-* Chapter 4: Async Flow Control
+* [Chapter 4: Async Flow Control](es6\%20&\%20beyond/ch4.md)
 	* Promises
 	* Generators + Promises
-* Chapter 5: Collections
+* [Chapter 5: Collections](es6\%20&\%20beyond/ch5.md)
 	* TypedArrays
 	* Maps
 	* WeakMaps
 	* Sets
 	* WeakSets
-* Chapter 6: API Additions
+* [Chapter 6: API Additions](es6\%20&\%20beyond/ch6.md)
 	* `Array`
 	* `Object`
 	* `Math`
 	* `Number`
 	* `String`
-* Chapter 7: Meta Programming
+* [Chapter 7: Meta Programming](es6\%20&\%20beyond/ch7.md)
 	* Function Names
 	* Meta Properties
 	* Well Known Symbols
@@ -303,12 +303,12 @@
 	* `Reflect` API
 	* Feature Testing
 	* Tail Call Optimization (TCO)
-* Chapter 8: Beyond ES6
+* [Chapter 8: Beyond ES6](es6\%20&\%20beyond/ch8.md)
 	* `async function`s
 	* `Object.observe(..)`
 	* Exponentiation Operator
 	* Object Properties and `...`
 	* `Array#includes(..)`
 	* SIMD
-* Appendix A: Acknowledgments
+* [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
 
