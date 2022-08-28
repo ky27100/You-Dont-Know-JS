@@ -13,7 +13,7 @@
 
 [Table of Contents](toc.md)
 
-* [Foreword](foreword.md) (by [Brian Holt](https://twitter.com/holtbt))
+* [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))
 * [Preface](../preface.md)
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
 * [Chapter 2: Surveying JS](get-started/ch2.md)
@@ -28,18 +28,18 @@
 
 [Table of Contents](toc.md)
 
-* [Foreword](foreword.md) (by [Sarah Drasner](https://sarah.dev/))
+* [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))
 * [Preface](../preface.md)
-* [Chapter 1: What's the Scope?](ch1.md)
-* [Chapter 2: Illustrating Lexical Scope](ch2.md)
-* [Chapter 3: The Scope Chain](ch3.md)
-* [Chapter 4: Around the Global Scope](ch4.md)
-* [Chapter 5: The (Not So) Secret Lifecycle of Variables](ch5.md)
-* [Chapter 6: Limiting Scope Exposure](ch6.md)
-* [Chapter 7: Using Closures](ch7.md)
-* [Chapter 8: The Module Pattern](ch8.md)
-* [Appendix A: Exploring Further](apA.md)
-* [Appendix B: Practice](apB.md)
+* [Chapter 1: What's the Scope?](scope-closures/ch1.md)
+* [Chapter 2: Illustrating Lexical Scope](scope-closures/ch2.md)
+* [Chapter 3: The Scope Chain](scope-closures/ch3.md)
+* [Chapter 4: Around the Global Scope](scope-closures/ch4.md)
+* [Chapter 5: The (Not So) Secret Lifecycle of Variables](scope-closures/ch5.md)
+* [Chapter 6: Limiting Scope Exposure](scope-closures/ch6.md)
+* [Chapter 7: Using Closures](scope-closures/ch7.md)
+* [Chapter 8: The Module Pattern](scope-closures/ch8.md)
+* [Appendix A: Exploring Further](scope-closures/apA.md)
+* [Appendix B: Practice](scope-closures/apB.md)
 
 
 ## Get Started - 2nd
@@ -85,54 +85,54 @@
 
 
 ## Scope & Closures - 2nd 
-* [Chapter 1: What's the Scope?](ch1.md)
+* [Chapter 1: What's the Scope?](scope-closures/ch1.md)
     * About This Book
     * Compiled vs. Interpreted
     * Compiling Code
     * Compiler Speak
     * Cheating: Run-Time Scope Modifications
     * Lexical Scope
-* [Chapter 2: Illustrating Lexical Scope](ch2.md)
+* [Chapter 2: Illustrating Lexical Scope](scope-closures/ch2.md)
     * Marbles, and Buckets, and Bubbles... Oh My!
     * A Conversation Among Friends
     * Nested Scope
     * Continue the Conversation
-* [Chapter 3: The Scope Chain](ch3.md)
+* [Chapter 3: The Scope Chain](scope-closures/ch3.md)
     * "Lookup" Is (Mostly) Conceptual
     * Shadowing
     * Function Name Scope
     * Arrow Functions
     * Backing Out
-* [Chapter 4: Around the Global Scope](ch4.md)
+* [Chapter 4: Around the Global Scope](scope-closures/ch4.md)
     * Why Global Scope?
     * Where Exactly is this Global Scope?
     * Global This
     * Globally Aware
-* [Chapter 5: The (Not So) Secret Lifecycle of Variables](ch5.md)
+* [Chapter 5: The (Not So) Secret Lifecycle of Variables](scope-closures/ch5.md)
     * When Can I Use a Variable?
     * Hoisting: Yet Another Metaphor
     * Re-declaration?
     * Uninitialized Variables (aka, TDZ)
     * Finally Initialized
-* [Chapter 6: Limiting Scope Exposure](ch6.md)
+* [Chapter 6: Limiting Scope Exposure](scope-closures/ch6.md)
     * Least Exposure
     * Hiding in Plain (Function) Scope
     * Scoping with Blocks
     * Function Declarations in Blocks
     * Blocked Over
-* [Chapter 7: Using Closures](ch7.md)
+* [Chapter 7: Using Closures](scope-closures/ch7.md)
     * See the Closure
     * The Closure Lifecycle and Garbage Collection (GC)
     * Why Closure?
     * An Alternative Perspective
     * Closer to Closure
-* [Chapter 8: The Module Pattern](ch8.md)
+* [Chapter 8: The Module Pattern](scope-closures/ch8.md)
     * Encapsulation and Least Exposure (POLE)
     * What is a Module?
     * Node CommonJS Modules
     * Modern ES Modules (ESM)
     * Exit Scope
-* [Appendix A: Exploring Further](apA.md)
+* [Appendix A: Exploring Further](scope-closures/apA.md)
     * Implied Scopes
     * Anonymous vs. Named Functions
     * Hoisting: Functions and Variables
@@ -140,7 +140,7 @@
     * What's the Deal with TDZ?
     * Are Synchronous Callbacks Still Closures?
     * Classic Module Variations
-* [Appendix B: Practice](apB.md)
+* [Appendix B: Practice](scope-closures/apB.md)
     * Buckets of Marbles
     * Closure (PART 1)
     * Closure (PART 2)
@@ -154,7 +154,3 @@
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
 
-[det_1]: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
-[det_2]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#middle
-[det_3]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#middle
-[det_4]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#middle
