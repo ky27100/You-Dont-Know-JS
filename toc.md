@@ -10,14 +10,14 @@
 ---
 ## Up & Going - 1st
 
-[Table of Contents](toc.md)
+[Table of Contents](up\%20&\%20going/toc.md)
 
-* [Foreword](foreword.md) (by [Jenn Lukas](http://jennlukas.com))
-* [Preface](../preface.md)
+* [Foreword](up\%20&\%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))
+* [Preface](up\%20&\%20going/preface.md)
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
-* [Chapter 2: Into JavaScript](ch2.md)
-* [Chapter 3: Into YDKJS](ch3.md)
-* [Appendix A: Thank You's!](apA.md)
+* [Chapter 2: Into JavaScript](up\%20&\%20going/ch2.md)
+* [Chapter 3: Into YDKJS](up\%20&\%20going/ch3.md)
+* [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
 
 ## Scope & Closures - 1st
 
