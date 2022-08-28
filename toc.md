@@ -1,6 +1,8 @@
 <a name="top"></a>
 ## You Don't Know JS - 1st
-***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
+***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***
+*[Prefaces](preface.md)* 
+
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
 * ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
 * ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
