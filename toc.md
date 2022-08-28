@@ -1,15 +1,24 @@
 # You Don't Know JS (book series) - 1st Edition
-
 ## Titles
-
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
 * ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
 * ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
 * ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
 * ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
+
+# You Don't Know JS Yet (book series) - 2nd Edition
+## Titles
+* [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
+* [Scope & Closures](scope-closures/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-scope-closures) | [Buy on Amazon](https://www.amazon.com/dp/B08634PZ3N)
+* [Objects & Classes](objects-classes/README.md) (draft stable)
+* [Types & Grammar](types-grammar/README.md) (draft in progress)
+* Sync & Async (not yet started)
+* ES.Next & Beyond (not yet started)
+
+
 ---
-# You Don't Know JS Yet: Scope & Closures - 2nd Edition
+## Scope & Closures - 2nd Edition
 
 [Table of Contents](toc.md)
 
