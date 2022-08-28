@@ -43,9 +43,7 @@
 
 
 ## Get Started - 2nd
-* Foreword
-* Preface
-* Chapter 1: What Is JavaScript?
+* [Chapter 1: What Is JavaScript?](ch1.md)
     * About This Book
     * What's With That Name?
     * Language Specification
@@ -54,7 +52,7 @@
     * What's in an Interpretation?
     * Strictly Speaking
     * Defined
-* Chapter 2: Surveying JS
+* [Chapter 2: Surveying JS](ch2.md)
     * Each File is a Program
     * Values
     * Declaring and Using Variables
@@ -62,24 +60,24 @@
     * Comparisons
     * How We Organize in JS
     * The Rabbit Hole Deepens
-* Chapter 3: Digging To The Roots Of JS
+* [Chapter 3: Digging to the Roots of JS](ch3.md)
     * Iteration
     * Closure
     * `this` Keyword
     * Prototypes
     * Asking "Why?"
-* Chapter 4: The Bigger Picture
+* [Chapter 4: The Bigger Picture](ch4.md)
     * Pillar 1: Scope and Closure
     * Pillar 2: Prototypes
     * Pillar 3: Types and Coercion
     * With the Grain
     * In Order
-* Appendix A: Exploring Further
+* [Appendix A: Exploring Further](apA.md)
     * Values vs. References
     * So Many Function Forms
     * Coercive Conditional Comparison
     * Prototypal "Classes"
-* Appendix B: Practice, Practice, Practice!
+* [Appendix B: Practice, Practice, Practice!](apB.md)
     * Practicing Comparisons
     * Practicing Closure
     * Practicing Prototypes
@@ -87,56 +85,54 @@
 
 
 ## Scope & Closures - 2nd 
-* Foreword
-* Preface
-* Chapter 1: What's the Scope?
+* [Chapter 1: What's the Scope?](ch1.md)
     * About This Book
     * Compiled vs. Interpreted
     * Compiling Code
     * Compiler Speak
     * Cheating: Run-Time Scope Modifications
     * Lexical Scope
-* Chapter 2: Illustrating Lexical Scope
+* [Chapter 2: Illustrating Lexical Scope](ch2.md)
     * Marbles, and Buckets, and Bubbles... Oh My!
     * A Conversation Among Friends
     * Nested Scope
     * Continue the Conversation
-* Chapter 3: The Scope Chain
+* [Chapter 3: The Scope Chain](ch3.md)
     * "Lookup" Is (Mostly) Conceptual
     * Shadowing
     * Function Name Scope
     * Arrow Functions
     * Backing Out
-* Chapter 4: Around the Global Scope
+* [Chapter 4: Around the Global Scope](ch4.md)
     * Why Global Scope?
     * Where Exactly is this Global Scope?
     * Global This
     * Globally Aware
-* Chapter 5: The (Not So) Secret Lifecycle of Variables
+* [Chapter 5: The (Not So) Secret Lifecycle of Variables](ch5.md)
     * When Can I Use a Variable?
     * Hoisting: Yet Another Metaphor
     * Re-declaration?
     * Uninitialized Variables (aka, TDZ)
     * Finally Initialized
-* Chapter 6: Limiting Scope Exposure
+* [Chapter 6: Limiting Scope Exposure](ch6.md)
     * Least Exposure
     * Hiding in Plain (Function) Scope
     * Scoping with Blocks
     * Function Declarations in Blocks
     * Blocked Over
-* Chapter 7: Using Closures
+* [Chapter 7: Using Closures](ch7.md)
     * See the Closure
     * The Closure Lifecycle and Garbage Collection (GC)
     * Why Closure?
     * An Alternative Perspective
     * Closer to Closure
-* Chapter 8: The Module Pattern
+* [Chapter 8: The Module Pattern](ch8.md)
     * Encapsulation and Least Exposure (POLE)
     * What is a Module?
     * Node CommonJS Modules
     * Modern ES Modules (ESM)
     * Exit Scope
-* Appendix A: Exploring Further
+* [Appendix A: Exploring Further](apA.md)
     * Implied Scopes
     * Anonymous vs. Named Functions
     * Hoisting: Functions and Variables
@@ -144,7 +140,7 @@
     * What's the Deal with TDZ?
     * Are Synchronous Callbacks Still Closures?
     * Classic Module Variations
-* Appendix B: Practice
+* [Appendix B: Practice](apB.md)
     * Buckets of Marbles
     * Closure (PART 1)
     * Closure (PART 2)
