@@ -1,5 +1,5 @@
 <a name="top"></a>
-***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***
+***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 [YDK JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md#top
 [YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/blob/2nd-ed/toc.md#top
 [Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
