@@ -12,11 +12,8 @@
 * ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
 ---
 ## Up & Going - 1st
+*[Table of Contents](up\%20&\%20going/toc.md) / [Foreword](up\%20&\%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))*
 
-[Table of Contents](up\%20&\%20going/toc.md)
-
-* [Foreword](up\%20&\%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))
-* [Preface](up\%20&\%20going/preface.md)
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up\%20&\%20going/ch2.md)
 * [Chapter 3: Into YDKJS](up\%20&\%20going/ch3.md)
@@ -27,7 +24,6 @@
 [Table of Contents](scope\%20&\%20closures/toc.md)
 
 * [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))
-* [Preface](scope\%20&\%20closures/preface.md)
 * [Chapter 1: What is Scope?](scope\%20&\%20closures/ch1.md)
 * [Chapter 2: Lexical Scope](scope\%20&\%20closures/ch2.md)
 * [Chapter 3: Function vs. Block Scope](scope\%20&\%20closures/ch3.md)
@@ -43,7 +39,6 @@
 [Table of Contents](this\%20&\%20object\%20prototypes/toc.md)
 
 * [Foreword](this\%20&\%20object\%20prototypes/foreword.md) (by [Nick Berardi](https://github.com/nberardi))
-* [Preface](this\%20&\%20object\%20prototypes/preface.md)
 * [Chapter 1: *this* Or That?](this\%20&\%20object\%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this\%20&\%20object\%20prototypes/ch2.md)
 * [Chapter 3: Objects](this\%20&\%20object\%20prototypes/ch3.md)
@@ -58,7 +53,6 @@
 [Table of Contents](types\%20&\%20grammar/toc.md)
 
 * [Foreword](types\%20&\%20grammar/foreword.md) (by [David Walsh](http://davidwalsh.name))
-* [Preface](../preface.md)
 * [Chapter 1: Types](types\%20&\%20grammar/ch1.md)
 * [Chapter 2: Values](types\%20&\%20grammar/ch2.md)
 * [Chapter 3: Natives](types\%20&\%20grammar/ch3.md)
@@ -72,7 +66,6 @@
 [Table of Contents](async\%20&\%20performance/toc.md)
 
 * [Foreword](async\%20&\%20performance/foreword.md) (by [Jake Archibald](http://jakearchibald.com))
-* [Preface](../preface.md)
 * [Chapter 1: Asynchrony: Now & Later](async\%20&\%20performance/ch1.md)
 * [Chapter 2: Callbacks](async\%20&\%20performance/ch2.md)
 * [Chapter 3: Promises](async\%20&\%20performance/ch3.md)
