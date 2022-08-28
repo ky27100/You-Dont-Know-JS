@@ -313,4 +313,3 @@
 	* `Array#includes(..)`
 	* SIMD
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
-
