@@ -1,6 +1,6 @@
 <a name="top"></a>
 ## You Don't Know JS - 1st
-***[You Dont Konw JS]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[Javascript Allongé-6th]***    
+***[YDK JS]** - **[YDK JS Yet]** - **[Functional Light JS]** - **[Understanding ES6]** - **[Javascript Allongé-6th]***    
 *[Prefaces](preface.md)* 
 
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
@@ -80,7 +80,8 @@
 * [Chapter 8: Beyond ES6](es6\%20&\%20beyond/ch8.md)
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
 
-[You Dont Konw JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md
+[YDK JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md
+[YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md
 [Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [Javascript Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
