@@ -18,7 +18,7 @@
 * ES.Next & Beyond (not yet started)
 ---
 ## Get Started - 2nd
-*[Table of Contents](#get-started---2nd-1) / [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))*
+*[Table of Contents](#get-started) / [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
 * [Chapter 2: Surveying JS](get-started/ch2.md)
 * [Chapter 3: Digging to the Roots of JS](get-started/ch3.md)
@@ -28,7 +28,7 @@
 
 
 ## Scope & Closures - 2nd
-*[Table of Contents](#scope--closures---2nd) / [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))*
+*[Table of Contents](#scope--closures) / [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))*
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
 * [Chapter 2: Illustrating Lexical Scope](scope-closures/ch2.md)
 * [Chapter 3: The Scope Chain](scope-closures/ch3.md)
