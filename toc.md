@@ -17,7 +17,7 @@
 * ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
 ---
 ## Up & Going - 1st
-*[Table of Contents](up\%20&\%20going/toc.md) / [Foreword](up\%20&\%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))*
+*[Table of Contents](#up--going) / [Foreword](up\%20&\%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))*
 
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up\%20&\%20going/ch2.md)
