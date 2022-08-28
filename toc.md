@@ -17,6 +17,20 @@
 * Sync & Async (not yet started)
 * ES.Next & Beyond (not yet started)
 ---
+# YGet Started - 2nd Edition
+*[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
+[Table of Contents](toc.md)
+
+* [Foreword](foreword.md) (by [Brian Holt](https://twitter.com/holtbt))
+* [Preface](../preface.md)
+* [Chapter 1: What Is JavaScript?](ch1.md)
+* [Chapter 2: Surveying JS](ch2.md)
+* [Chapter 3: Digging to the Roots of JS](ch3.md)
+* [Chapter 4: The Bigger Picture](ch4.md)
+* [Appendix A: Exploring Further](apA.md)
+* [Appendix B: Practice, Practice, Practice!](apB.md)
+
+
 ## Scope & Closures - 2nd Edition
 *[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
 
@@ -35,26 +49,8 @@
 * [Appendix A: Exploring Further](apA.md)
 * [Appendix B: Practice](apB.md)
 
-## Scope & Closures - 2nd Edition
-*[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
 
-[Table of Contents](toc.md)
-
-* [Foreword](foreword.md) (by [Sarah Drasner](https://sarah.dev/))
-* [Preface](../preface.md)
-* [Chapter 1: What's the Scope?](ch1.md)
-* [Chapter 2: Illustrating Lexical Scope](ch2.md)
-* [Chapter 3: The Scope Chain](ch3.md)
-* [Chapter 4: Around the Global Scope](ch4.md)
-* [Chapter 5: The (Not So) Secret Lifecycle of Variables](ch5.md)
-* [Chapter 6: Limiting Scope Exposure](ch6.md)
-* [Chapter 7: Using Closures](ch7.md)
-* [Chapter 8: The Module Pattern](ch8.md)
-* [Appendix A: Exploring Further](apA.md)
-* [Appendix B: Practice](apB.md)
-
-
-## You Don't Know JS Yet: Get Started - 2nd Edition
+## Get Started - 2nd
 * Foreword
 * Preface
 * Chapter 1: What Is JavaScript?
@@ -98,7 +94,7 @@
     * Suggested Solutions
 
 
-## Scope & Closures - 2nd Edition
+## Scope & Closures - 2nd 
 * Foreword
 * Preface
 * Chapter 1: What's the Scope?
