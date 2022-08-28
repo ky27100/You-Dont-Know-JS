@@ -84,6 +84,7 @@
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
 
 ---
+
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 ## Up & Going
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
