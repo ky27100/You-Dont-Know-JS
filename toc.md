@@ -86,7 +86,3 @@
 * [Chapter 8: Beyond ES6](es6\%20&\%20beyond/ch8.md)
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
 
-[det_1]: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
-[det_2]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#middle
-[det_3]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#middle
-[det_4]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#middle
