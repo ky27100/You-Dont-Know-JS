@@ -82,12 +82,8 @@
 * [Chapter 8: Beyond ES6](es6\%20&\%20beyond/ch8.md)
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
 
-# You Don't Know JS: Up & Going
-
-## Table of Contents
-
-* Foreword
-* Preface
+---
+## Up & Going
 * Chapter 1: Into Programming
 	* Code
 	* Try It Yourself
@@ -118,12 +114,7 @@
 	* ES6 & Beyond
 * Appendix A: Acknowledgments
 
-# You Don't Know JS: Scope & Closures
-
-## Table of Contents
-
-* Foreword
-* Preface
+## Scope & Closures
 * Chapter 1: What is Scope?
 	* Compiler Theory
 	* Understanding Scope
@@ -152,12 +143,7 @@
 * Appendix C: Lexical-this
 * Appendix D: Acknowledgments
 
-# You Don't Know JS: *this* & Object Prototypes
-
-## Table of Contents
-
-* Foreword
-* Preface
+## *this* & Object Prototypes
 * Chapter 1: `this` Or That?
 	* Why `this`?
 	* Confusions
@@ -192,12 +178,7 @@
 * Appendix A: ES6 `class`
 * Appendix B: Acknowledgments
 
-# You Don't Know JS: Types & Grammar
-
-## Table of Contents
-
-* Foreword
-* Preface
+## Types & Grammar
 * Chapter 1: Types
 	* A Type By Any Other Name...
 	* Built-in Types
@@ -231,12 +212,7 @@
 * Appendix A: Mixed Environment JavaScript
 * Appendix B: Acknowledgments
 
-# You Don't Know JS: Async & Performance
-
-## Table of Contents
-
-* Foreword
-* Preface
+## Async & Performance
 * Chapter 1: Asynchrony: Now & Later
 	* A Program In Chunks
 	* Event Loop
@@ -282,12 +258,7 @@
 * Appendix B: Advanced Async Patterns
 * Appendix C: Acknowledgments
 
-# You Don't Know JS: ES6 & Beyond
-
-## Table of Contents
-
-* Foreword
-* Preface
+## ES6 & Beyond
 * Chapter 1: ES? Now & Future
 	* Versioning
 	* Transpiling
