@@ -115,36 +115,36 @@
 * [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
 
 ## Scope & Closures
-* Chapter 1: What is Scope?
+* [Chapter 1: What is Scope?](scope\%20&\%20closures/ch1.md)
 	* Compiler Theory
 	* Understanding Scope
 	* Nested Scope
 	* Errors
-* Chapter 2: Lexical Scope
+* [Chapter 2: Lexical Scope](scope\%20&\%20closures/ch2.md)
 	* Lex-time
 	* Cheating Lexical
-* Chapter 3: Function vs. Block Scope
+* [Chapter 3: Function vs. Block Scope](scope\%20&\%20closures/ch3.md)
 	* Scope From Functions
 	* Hiding In Plain Scope
 	* Functions As Scopes
 	* Blocks As Scopes
-* Chapter 4: Hoisting
+* [Chapter 4: Hoisting](scope\%20&\%20closures/ch4.md)
 	* Chicken Or The Egg?
 	* The Compiler Strikes Again
 	* Functions First
-* Chapter 5: Scope Closures
+* [Chapter 5: Scope Closures](scope\%20&\%20closures/ch5.md)
 	* Enlightenment
 	* Nitty Gritty
 	* Now I Can See
 	* Loops + Closure
 	* Modules
-* Appendix A: Dynamic Scope
-* Appendix B: Polyfilling Block Scope
-* Appendix C: Lexical-this
-* Appendix D: Acknowledgments
+* [Appendix A: Dynamic Scope](scope\%20&\%20closures/apA.md)
+* [Appendix B: Polyfilling Block Scope](scope\%20&\%20closures/apB.md)
+* [Appendix C: Lexical-this](scope\%20&\%20closures/apC.md)
+* [Appendix D: Thank You's!](scope\%20&\%20closures/apD.md)
 
 ## *this* & Object Prototypes
-* Chapter 1: `this` Or That?
+* [Chapter 1: *this* Or That?](this\%20&\%20object\%20prototypes/ch1.md)
 	* Why `this`?
 	* Confusions
 	* What's `this`?
