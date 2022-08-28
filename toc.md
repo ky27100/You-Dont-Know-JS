@@ -17,7 +17,7 @@
 * ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
 * ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
 ---
-### Up & Going - 1st
+## Up & Going - 1st
 *[Table of Contents](#up--going) / [Foreword](up\%20&\%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))*
 
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
