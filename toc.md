@@ -32,15 +32,7 @@
 * [Appendix A: Exploring Further](apA.md)
 * [Appendix B: Practice](apB.md)
 
-# You Don't Know JS Yet: Scope & Closures - 2nd Edition
-
-<img src="images/cover.png" width="300">
-
------
-
-**[Purchase ebook/PDF from Leanpub](https://leanpub.com/ydkjsy-scope-closures)**
-
------
+## Scope & Closures - 2nd Edition
 
 [Table of Contents](toc.md)
 
@@ -58,10 +50,7 @@
 * [Appendix B: Practice](apB.md)
 
 
-# You Don't Know JS Yet: Get Started - 2nd Edition
-
-## Table of Contents
-
+## You Don't Know JS Yet: Get Started - 2nd Edition
 * Foreword
 * Preface
 * Chapter 1: What Is JavaScript?
@@ -105,10 +94,7 @@
     * Suggested Solutions
 
 
-# You Don't Know JS Yet: Scope & Closures - 2nd Edition
-
-## Table of Contents
-
+## Scope & Closures - 2nd Edition
 * Foreword
 * Preface
 * Chapter 1: What's the Scope?
