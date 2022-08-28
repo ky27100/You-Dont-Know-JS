@@ -1,3 +1,8 @@
+<a name="top"></a>
+## [JavaScript Allongé-6th](#middle)
+***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***      
+*[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
+
 # You Don't Know JS - 1st Edition
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
 * ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
@@ -159,3 +164,14 @@
     * Closure (PART 3)
     * Modules
     * Suggested Solutions
+
+
+[You Dont Konw JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md
+[Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
+[Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
+[Javascript Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
+
+[det_1]: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
+[det_2]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#middle
+[det_3]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#middle
+[det_4]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#middle
