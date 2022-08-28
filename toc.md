@@ -41,6 +41,7 @@
 * [Appendix B: Practice](scope-closures/apB.md)
 
 ---
+***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 ## Get Started
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
