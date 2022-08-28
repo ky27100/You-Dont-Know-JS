@@ -43,7 +43,7 @@
 
 
 ## Get Started - 2nd
-* [Chapter 1: What Is JavaScript?](ch1.md)
+* [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
     * What's With That Name?
     * Language Specification
@@ -52,7 +52,7 @@
     * What's in an Interpretation?
     * Strictly Speaking
     * Defined
-* [Chapter 2: Surveying JS](ch2.md)
+* [Chapter 2: Surveying JS](get-started/ch2.md)
     * Each File is a Program
     * Values
     * Declaring and Using Variables
@@ -60,24 +60,24 @@
     * Comparisons
     * How We Organize in JS
     * The Rabbit Hole Deepens
-* [Chapter 3: Digging to the Roots of JS](ch3.md)
+* [Chapter 3: Digging to the Roots of JS](get-started/ch3.md)
     * Iteration
     * Closure
     * `this` Keyword
     * Prototypes
     * Asking "Why?"
-* [Chapter 4: The Bigger Picture](ch4.md)
+* [Chapter 4: The Bigger Picture](get-started/ch4.md)
     * Pillar 1: Scope and Closure
     * Pillar 2: Prototypes
     * Pillar 3: Types and Coercion
     * With the Grain
     * In Order
-* [Appendix A: Exploring Further](apA.md)
+* [Appendix A: Exploring Further](get-started/apA.md)
     * Values vs. References
     * So Many Function Forms
     * Coercive Conditional Comparison
     * Prototypal "Classes"
-* [Appendix B: Practice, Practice, Practice!](apB.md)
+* [Appendix B: Practice, Practice, Practice!](get-started/apB.md)
     * Practicing Comparisons
     * Practicing Closure
     * Practicing Prototypes
