@@ -7,7 +7,7 @@
 * Sync & Async (not yet started)
 * ES.Next & Beyond (not yet started)
 ---
-## Get Started - 2nd Edition
+## Get Started - 2nd
 *[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
 [Table of Contents](toc.md)
 
@@ -21,7 +21,7 @@
 * [Appendix B: Practice, Practice, Practice!](apB.md)
 
 
-## Scope & Closures - 2nd Edition
+## Scope & Closures - 2nd
 *[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
 
 [Table of Contents](toc.md)
