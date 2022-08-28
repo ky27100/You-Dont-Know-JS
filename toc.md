@@ -25,7 +25,7 @@
 * [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
 
 ## Scope & Closures - 1st
-*[Table of Contents](scope\%20&\%20closures/toc.md) / [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))*
+*[Table of Contents](#scope--closures) / [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))*
 * [Chapter 1: What is Scope?](scope\%20&\%20closures/ch1.md)
 * [Chapter 2: Lexical Scope](scope\%20&\%20closures/ch2.md)
 * [Chapter 3: Function vs. Block Scope](scope\%20&\%20closures/ch3.md)
@@ -37,7 +37,7 @@
 * [Appendix D: Thank You's!](scope\%20&\%20closures/apD.md)
 
 ## *this* & Object Prototypes - 1st
-*[Table of Contents](this\%20&\%20object\%20prototypes/toc.md) / [Foreword](this\%20&\%20object\%20prototypes/foreword.md) (by [Nick Berardi](https://github.com/nberardi))*
+*[Table of Contents](#this--object-prototypes) / [Foreword](this\%20&\%20object\%20prototypes/foreword.md) (by [Nick Berardi](https://github.com/nberardi))*
 * [Chapter 1: *this* Or That?](this\%20&\%20object\%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this\%20&\%20object\%20prototypes/ch2.md)
 * [Chapter 3: Objects](this\%20&\%20object\%20prototypes/ch3.md)
@@ -48,7 +48,7 @@
 * [Appendix B: Thank You's!](this\%20&\%20object\%20prototypes/apB.md)
 
 ## Types & Grammar - 1st
-*[Table of Contents](types\%20&\%20grammar/toc.md) / [Foreword](types\%20&\%20grammar/foreword.md) (by [David Walsh](http://davidwalsh.name))*
+*[Table of Contents](#types--grammar) / [Foreword](types\%20&\%20grammar/foreword.md) (by [David Walsh](http://davidwalsh.name))*
 
 * [Chapter 1: Types](types\%20&\%20grammar/ch1.md)
 * [Chapter 2: Values](types\%20&\%20grammar/ch2.md)
@@ -59,7 +59,7 @@
 * [Appendix B: Thank You's!](types\%20&\%20grammar/apB.md)
 
 ## Async & Performance - 1st
-*[Table of Contents](async\%20&\%20performance/toc.md) / [Foreword](async\%20&\%20performance/foreword.md) (by [Jake Archibald](http://jakearchibald.com))*
+*[Table of Contents](#async--performance) / [Foreword](async\%20&\%20performance/foreword.md) (by [Jake Archibald](http://jakearchibald.com))*
 * [Chapter 1: Asynchrony: Now & Later](async\%20&\%20performance/ch1.md)
 * [Chapter 2: Callbacks](async\%20&\%20performance/ch2.md)
 * [Chapter 3: Promises](async\%20&\%20performance/ch3.md)
@@ -71,7 +71,7 @@
 * [Appendix C: Thank You's!](async\%20&\%20performance/apC.md)
 
 ## ES6 & Beyond - 1st
-*[Table of Contents](es6\%20&\%20beyond/toc.md) / [Foreword](es6\%20&\%20beyond/foreword.md) (by [Rick Waldron](http://bocoup.com/weblog/author/rick-waldron/))*
+*[Table of Contents](#es6--beyond) / [Foreword](es6\%20&\%20beyond/foreword.md) (by [Rick Waldron](http://bocoup.com/weblog/author/rick-waldron/))*
 * [Chapter 1: ES? Now & Future](es6\%20&\%20beyond/ch1.md)
 * [Chapter 2: Syntax](es6\%20&\%20beyond/ch2.md)
 * [Chapter 3: Organization](es6\%20&\%20beyond/ch3.md)
