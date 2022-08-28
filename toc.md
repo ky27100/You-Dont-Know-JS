@@ -1,6 +1,6 @@
 <a name="top"></a>
 ## You Don't Know JS - 1st
-***[YDK JS]** - **[YDK JS Yet]** - **[Functional Light JS]** - **[Understanding ES6]** - **[Javascript Allongé-6th]***    
+***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[Javascript Allongé-6th]***    
 *[Prefaces](preface.md)* 
 
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
