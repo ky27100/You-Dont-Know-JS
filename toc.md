@@ -81,7 +81,7 @@
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
 
 [YDK JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md
-[YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md
+[YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/blob/2nd-ed/toc.md
 [Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [Javascript Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
