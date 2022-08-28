@@ -24,7 +24,7 @@
 * [Chapter 2: Into JavaScript](up\%20&\%20going/ch2.md)
 * [Chapter 3: Into YDKJS](up\%20&\%20going/ch3.md)
 * [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
-
+ 
 ## Scope & Closures - 1st
 *[Table of Contents](#scope--closures) / [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))*
 * [Chapter 1: What is Scope?](scope\%20&\%20closures/ch1.md)
