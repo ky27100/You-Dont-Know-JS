@@ -1,5 +1,5 @@
 <a name="top"></a>
-# You Don't Know JS - 1st
+## You Don't Know JS - 1st
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
 * ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
@@ -7,6 +7,10 @@
 * ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
 * ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
 * ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
+---
+
+
+
 
 
 [You Dont Konw JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md
