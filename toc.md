@@ -41,7 +41,7 @@
 * [Appendix B: Practice](scope-closures/apB.md)
 
 
-## Get Started - 2nd
+## Get Started
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
     * What's With That Name?
@@ -83,7 +83,7 @@
     * Suggested Solutions
 
 
-## Scope & Closures - 2nd 
+## Scope & Closures 
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
     * About This Book
     * Compiled vs. Interpreted
