@@ -40,7 +40,7 @@
 * [Appendix A: Exploring Further](scope-closures/apA.md)
 * [Appendix B: Practice](scope-closures/apB.md)
 
-
+---
 ## Get Started
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
