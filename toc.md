@@ -15,12 +15,12 @@
 
 * [Foreword](foreword.md) (by [Brian Holt](https://twitter.com/holtbt))
 * [Preface](../preface.md)
-* [Chapter 1: What Is JavaScript?](ch1.md)
-* [Chapter 2: Surveying JS](ch2.md)
-* [Chapter 3: Digging to the Roots of JS](ch3.md)
-* [Chapter 4: The Bigger Picture](ch4.md)
-* [Appendix A: Exploring Further](apA.md)
-* [Appendix B: Practice, Practice, Practice!](apB.md)
+* [Chapter 1: What Is JavaScript?](get-started/ch1.md)
+* [Chapter 2: Surveying JS](get-started/ch2.md)
+* [Chapter 3: Digging to the Roots of JS](get-started/ch3.md)
+* [Chapter 4: The Bigger Picture](get-started/ch4.md)
+* [Appendix A: Exploring Further](get-started/apA.md)
+* [Appendix B: Practice, Practice, Practice!](get-started/apB.md)
 
 
 ## Scope & Closures - 2nd
