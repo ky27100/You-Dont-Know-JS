@@ -28,12 +28,7 @@
 
 
 ## Scope & Closures - 2nd
-*[Prefaces](book_1_preface.md) / [Prelude](book_2_prelude.md) / [Remarks](book_3_closing-time.md) / [Appendices](book_4_appendices.md) / [Leanpub](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong) - Nov 3, 2017(513p) - [By Reg Braithwaite](https://github.com/raganwald)* 
-
-[Table of Contents](toc.md)
-
-* [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))
-* [Preface](../preface.md)
+*[Table of Contents](toc.md) / [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))*
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
 * [Chapter 2: Illustrating Lexical Scope](scope-closures/ch2.md)
 * [Chapter 3: The Scope Chain](scope-closures/ch3.md)
