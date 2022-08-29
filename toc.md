@@ -60,7 +60,7 @@
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 # You Don't Know JS Yet
-## Get Started - *detailed*
+## Get Started
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
     * What's With That Name?
@@ -165,7 +165,7 @@
     * Modules
     * Suggested Solutions
 
-## Objects & Classes - 2nd Edition
+## Objects & Classes
 * [Chapter 1: Object Foundations](object-classes/ch1.md)
     * About This Book
     * Objects As Containers
@@ -213,7 +213,7 @@
     * "inheritance" objections
     * protected visibility
 
-## Types & Grammar - 2nd Edition
+## Types & Grammar
 * [Chapter 1: Primitive Values](types-grammar/ch1.md)
 	* Value Types
     * Empty Values
