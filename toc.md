@@ -42,6 +42,7 @@
 
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
+# You Don't Know JS Yet
 ## Get Started
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
@@ -82,7 +83,6 @@
     * Practicing Closure
     * Practicing Prototypes
     * Suggested Solutions
-
 
 ## Scope & Closures 
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
