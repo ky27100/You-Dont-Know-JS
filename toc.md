@@ -79,6 +79,7 @@
 ---
 
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
+# You Don't Know JS - 1st
 ## Up & Going
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
 	* Code
