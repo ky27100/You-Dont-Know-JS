@@ -165,16 +165,7 @@
     * Modules
     * Suggested Solutions
 
-# You Don't Know JS Yet: Objects & Classes - 2nd Edition
-
-| NOTE: |
-| :--- |
-| Work in progress |
-
-## Table of Contents
-
-* Foreword
-* Preface
+## Objects & Classes - 2nd Edition
 * Chapter 1: Object Foundations
     * About This Book
     * Objects As Containers
@@ -222,16 +213,7 @@
     * "inheritance" objections
     * protected visibility
 
-# You Don't Know JS Yet: Types & Grammar - 2nd Edition
-
-| NOTE: |
-| :--- |
-| Work in progress |
-
-## Table of Contents
-
-* Foreword
-* Preface
+## Types & Grammar - 2nd Edition
 * Chapter 1: Primitive Values
 	* Value Types
     * Empty Values
