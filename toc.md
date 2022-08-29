@@ -166,7 +166,7 @@
     * Suggested Solutions
 
 ## Objects & Classes - 2nd Edition
-* Chapter 1: Object Foundations
+* [Chapter 1: Object Foundations](object-classes/ch1.md)
     * About This Book
     * Objects As Containers
     * Defining Properties
@@ -176,14 +176,14 @@
     * Determining Container Contents
     * Temporary Containers
     * Containers Are Collections Of Properties
-* Chapter 2: How Objects Work
+* [Chapter 2: How Objects Work](object-classes/ch2.md)
     * Property Descriptors
     * Object Sub-Types
     * Object Characteristics
     * Extending the MOP
     * `[[Prototype]]` Chain
     * Objects Behavior
-* Chapter 3: Classy Objects
+* [Chapter 3: Classy Objects](object-classes/ch3.md)
     * When Should I Class-Orient My Code?
     * Keep It `class`y
     * Class Instance `this`
@@ -191,13 +191,13 @@
     * Static Class Behavior
     * Private Class Behavior
     * Class Example
-* Chapter 4: This Works
+* [Chapter 4: This Works](object-classes/ch4.md)
     * This Aware
     * This Is It!
     * An Arrow Points Somewhere
     * Variations
     * Stay Aware
-* Chapter 5: Delegation
+* [Chapter 5: Delegation](object-classes/ch5.md)
     * Preamble
     * What's A Constructor, Anyway?
     * Ditching Class Thinking
@@ -214,7 +214,7 @@
     * protected visibility
 
 ## Types & Grammar - 2nd Edition
-* Chapter 1: Primitive Values
+* [Chapter 1: Primitive Values](types-grammar/ch1.md)
 	* Value Types
     * Empty Values
     * Boolean Values
@@ -223,13 +223,13 @@
     * BigInteger Values
     * Symbol Values
     * Primitives Are Built-In Types
-* Chapter 2: Primitive Behaviors
+* [Chapter 2: Primitive Behaviors](types-grammar/ch2.md)
     * Primitive Immutability
     * Primitive Assignments
     * String Behaviors
     * Number Behaviors
     * Primitives Are Foundational
-* Chapter 3: Object Values
+* [Chapter 3: Object Values](types-grammar/ch3.md)
     * Types of Objects
     * Plain Objects
     * Fundamental Objects
@@ -239,7 +239,7 @@
     * Functions
     * Proposed: Records/Tuples
     * TODO
-* Chapter 4: Coercing Values
+* [Chapter 4: Coercing Values](types-grammar/ch4.md)
     * Coercion: Explicit vs Implicit
     * Abstracts
     * Concrete Coercions
