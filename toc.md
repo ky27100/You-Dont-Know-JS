@@ -40,6 +40,23 @@
 * [Appendix A: Exploring Further](scope-closures/apA.md)
 * [Appendix B: Practice](scope-closures/apB.md)
 
+## Objects & Classes - 2nd
+*[Table of Contents](toc.md) / [Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
+* [Chapter 1: Object Foundations](object-classes/ch1.md)
+* [Chapter 2: How Objects Work](object-classes/ch2.md)
+* [Chapter 3: Classy Objects](object-classes/ch3.md)
+* [Chapter 4: This Works](object-classes/ch4.md)
+* [Chapter 5: Delegation](object-classes/ch5.md)
+* TODO
+
+## Types & Grammar - 2nd
+*[Table of Contents](toc.md) / [Foreword](foreword.md) (by TBA)*
+* [Chapter 1: Primitive Values](types-grammar/ch1.md)
+* [Chapter 2: Primitive Behaviors](types-grammar/ch2.md)
+* [Chapter 3: Object Values](types-grammar/ch3.md)
+* [Chapter 4: Coercing Values](types-grammar/ch4.md)
+* Chapter 5: TODO
+
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 # You Don't Know JS Yet
@@ -148,5 +165,104 @@
     * Modules
     * Suggested Solutions
 
+# You Don't Know JS Yet: Objects & Classes - 2nd Edition
+
+| NOTE: |
+| :--- |
+| Work in progress |
+
+## Table of Contents
+
+* Foreword
+* Preface
+* Chapter 1: Object Foundations
+    * About This Book
+    * Objects As Containers
+    * Defining Properties
+    * Accessing Properties
+    * Assigning Properties
+    * Deleting Properties
+    * Determining Container Contents
+    * Temporary Containers
+    * Containers Are Collections Of Properties
+* Chapter 2: How Objects Work
+    * Property Descriptors
+    * Object Sub-Types
+    * Object Characteristics
+    * Extending the MOP
+    * `[[Prototype]]` Chain
+    * Objects Behavior
+* Chapter 3: Classy Objects
+    * When Should I Class-Orient My Code?
+    * Keep It `class`y
+    * Class Instance `this`
+    * Class Extension
+    * Static Class Behavior
+    * Private Class Behavior
+    * Class Example
+* Chapter 4: This Works
+    * This Aware
+    * This Is It!
+    * An Arrow Points Somewhere
+    * Variations
+    * Stay Aware
+* Chapter 5: Delegation
+    * Preamble
+    * What's A Constructor, Anyway?
+    * Ditching Class Thinking
+    * Delegation Illustrated
+    * Composing Peer Objects
+    * Why *This*?
+* TODO:
+    * object wrappers (String, Boolean, etc)
+    * object coercions (valueof, tostring, boxing)
+    * well-known symbols extension points on objects
+    * proxies
+    * old "prototypal class" style
+    * "inheritance" objections
+    * protected visibility
+
+# You Don't Know JS Yet: Types & Grammar - 2nd Edition
+
+| NOTE: |
+| :--- |
+| Work in progress |
+
+## Table of Contents
+
+* Foreword
+* Preface
+* Chapter 1: Primitive Values
+	* Value Types
+    * Empty Values
+    * Boolean Values
+    * String Values
+    * Number Values
+    * BigInteger Values
+    * Symbol Values
+    * Primitives Are Built-In Types
+* Chapter 2: Primitive Behaviors
+    * Primitive Immutability
+    * Primitive Assignments
+    * String Behaviors
+    * Number Behaviors
+    * Primitives Are Foundational
+* Chapter 3: Object Values
+    * Types of Objects
+    * Plain Objects
+    * Fundamental Objects
+    * Other Built-in Objects
+    * Arrays
+    * Regular Expressions
+    * Functions
+    * Proposed: Records/Tuples
+    * TODO
+* Chapter 4: Coercing Values
+    * Coercion: Explicit vs Implicit
+    * Abstracts
+    * Concrete Coercions
+    * Coercion Corner Cases
+    * Type Awareness
+    * What's Left?
 
 
