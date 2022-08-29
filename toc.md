@@ -1,5 +1,14 @@
 <a name="top"></a>
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
+
+
+[YDK JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md#top
+[YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/blob/2nd-ed/toc.md#top
+[Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
+[Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
+[JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
+
+
 # You Don't Know JS - 1st
 *[Prefaces](preface.md)* 
 
@@ -75,9 +84,7 @@
 * [Chapter 7: Meta Programming](es6\%20&\%20beyond/ch7.md)
 * [Chapter 8: Beyond ES6](es6\%20&\%20beyond/ch8.md)
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
-
 ---
-
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 # You Don't Know JS - 1st
 ## Up & Going
@@ -309,9 +316,3 @@
 	* SIMD
 * [Appendix A: Thank You's!](es6\%20&\%20beyond/apA.md)
 
-
-[YDK JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md#top
-[YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/blob/2nd-ed/toc.md#top
-[Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
-[Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
-[JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
