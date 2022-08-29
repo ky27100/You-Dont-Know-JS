@@ -41,7 +41,7 @@
 * [Appendix B: Practice](scope-closures/apB.md)
 
 ## Objects & Classes - 2nd
-*[Table of Contents](toc.md) / [Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
+*[Table of Contents](#objects--classes) / [Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
 * [Chapter 1: Object Foundations](object-classes/ch1.md)
 * [Chapter 2: How Objects Work](object-classes/ch2.md)
 * [Chapter 3: Classy Objects](object-classes/ch3.md)
@@ -50,7 +50,7 @@
 * TODO
 
 ## Types & Grammar - 2nd
-*[Table of Contents](toc.md) / [Foreword](foreword.md) (by TBA)*
+*[Table of Contents](#types--grammar) / [Foreword](foreword.md) (by TBA)*
 * [Chapter 1: Primitive Values](types-grammar/ch1.md)
 * [Chapter 2: Primitive Behaviors](types-grammar/ch2.md)
 * [Chapter 3: Object Values](types-grammar/ch3.md)
