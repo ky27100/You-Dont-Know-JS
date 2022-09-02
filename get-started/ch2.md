@@ -525,7 +525,7 @@ The terms "object-oriented," "class-oriented," and "classes" are all very loaded
 
 We will use a common and somewhat traditional definition here, the one most likely familiar to those with backgrounds in "object-oriented" languages like C++ and Java.
 
-A class in a program is a definition of a "type" of custom data structure that includes both data and behaviors that operate on that data. Classes define how such a data structure works, but classes are not themselves concrete values. To get a concrete value that you can use in the program, a class must be *instantiated* (with the `new` keyword) one or more times.
+<strong>A class in a program is a definition of a "type" of custom data structure that includes both data and behaviors that operate on that data.</strong> Classes define how such a data structure works, but classes are not themselves concrete values. To get a concrete value that you can use in the program, a class must be *instantiated* (with the `new` keyword) one or more times.
 
 Consider:
 
