@@ -40,7 +40,7 @@
 * [Appendix A: Exploring Further](scope-closures/apA.md)
 * [Appendix B: Practice](scope-closures/apB.md)
 
-## Objects & Classes - *2nd*
+## Objects & Classes - *[2nd]()*
 *[Table of Contents](#objects--classes) / [Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
 * [Chapter 1: Object Foundations](object-classes/ch1.md)
 * [Chapter 2: How Objects Work](object-classes/ch2.md)
