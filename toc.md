@@ -85,7 +85,7 @@
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 # You Don't Know JS - 1st
-## Up & Going - *[detail]()*
+## Up & Going - *[detail](#up--going---1st)*
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
 	* Code
 	* Try It Yourself
@@ -116,7 +116,7 @@
 	* ES6 & Beyond
 * [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
 
-## Scope & Closures - *[detail]()*
+## Scope & Closures - *[detail](#scope--closures---1st)*
 * [Chapter 1: What is Scope?](scope\%20&\%20closures/ch1.md)
 	* Compiler Theory
 	* Understanding Scope
@@ -145,7 +145,7 @@
 * [Appendix C: Lexical-this](scope\%20&\%20closures/apC.md)
 * [Appendix D: Thank You's!](scope\%20&\%20closures/apD.md)
 
-## *this* & Object Prototypes - *[detail]()*
+## *this* & Object Prototypes - *[detail](#this--object-prototypes---1st)*
 * [Chapter 1: *this* Or That?](this\%20&\%20object\%20prototypes/ch1.md)
 	* Why `this`?
 	* Confusions
@@ -180,7 +180,7 @@
 * [Appendix A: ES6 *class*](this\%20&\%20object\%20prototypes/apA.md)
 * [Appendix B: Thank You's!](this\%20&\%20object\%20prototypes/apB.md)
 
-## Types & Grammar - *[detail]()*
+## Types & Grammar - *[detail](#types--grammar---1st)*
 * [Chapter 1: Types](types\%20&\%20grammar/ch1.md)
 	* A Type By Any Other Name...
 	* Built-in Types
@@ -214,7 +214,7 @@
 * [Appendix A: Mixed Environment JavaScript](types\%20&\%20grammar/apA.md)
 * [Appendix B: Thank You's!](types\%20&\%20grammar/apB.md)
 
-## Async & Performance - *[detail]()*
+## Async & Performance - *[detail](#async--performance---1st)*
 * [Chapter 1: Asynchrony: Now & Later](async\%20&\%20performance/ch1.md)
 	* A Program In Chunks
 	* Event Loop
@@ -260,7 +260,7 @@
 * [Appendix B: Advanced Async Patterns](async\%20&\%20performance/apB.md)
 * [Appendix C: Thank You's!](async\%20&\%20performance/apC.md)
 
-## ES6 & Beyond - *[detail]()*
+## ES6 & Beyond - *[detail](#es6--beyond---1st)*
 * [Chapter 1: ES? Now & Future](es6\%20&\%20beyond/ch1.md)
 	* Versioning
 	* Transpiling
