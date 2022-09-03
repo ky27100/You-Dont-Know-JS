@@ -60,7 +60,7 @@
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 # You Don't Know JS Yet - *[detail]()*
-## Get Started - *[Detail](#get-started---2nd)*
+## Get Started - *[detail](#get-started---2nd)*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
     * What's With That Name?
