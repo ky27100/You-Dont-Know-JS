@@ -7,7 +7,7 @@
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
 
-# You Don't Know JS Yet - *[2nd]()*
+# You Don't Know JS Yet - *[2nd](#you-dont-know-js-yet---detail)*
 *[Preface](preface.md)*
 
 * [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
@@ -59,7 +59,7 @@
 
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
-# You Don't Know JS Yet - *[detail]()*
+# You Don't Know JS Yet - *[detail](#you-dont-know-js-yet---2nd)*
 ## Get Started - *[detail](#get-started---2nd)*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
