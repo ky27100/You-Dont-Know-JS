@@ -17,7 +17,7 @@
 * Sync & Async (not yet started)
 * ES.Next & Beyond (not yet started)
 ---
-## Get Started - *2nd*
+## Get Started - *[2nd]()*
 *[Table of Contents](#get-started) / [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
 * [Chapter 2: Surveying JS](get-started/ch2.md)
@@ -27,7 +27,7 @@
 * [Appendix B: Practice, Practice, Practice!](get-started/apB.md)
 
 
-## Scope & Closures - *2nd*
+## Scope & Closures - *[2nd]()*
 *[Table of Contents](#scope--closures) / [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))*
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
 * [Chapter 2: Illustrating Lexical Scope](scope-closures/ch2.md)
@@ -49,7 +49,7 @@
 * [Chapter 5: Delegation](object-classes/ch5.md)
 * TODO
 
-## Types & Grammar - *2nd*
+## Types & Grammar - *[2nd]()*
 *[Table of Contents](#types--grammar) / [Foreword](foreword.md) (by TBA)*
 * [Chapter 1: Primitive Values](types-grammar/ch1.md)
 * [Chapter 2: Primitive Behaviors](types-grammar/ch2.md)
@@ -60,7 +60,7 @@
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 # You Don't Know JS Yet
-## Get Started - *Detail*
+## Get Started - *[Detail]()*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
     * What's With That Name?
@@ -101,7 +101,7 @@
     * Practicing Prototypes
     * Suggested Solutions
 
-## Scope & Closures - *Detail* 
+## Scope & Closures - *[Detail]()*
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
     * About This Book
     * Compiled vs. Interpreted
@@ -165,7 +165,7 @@
     * Modules
     * Suggested Solutions
 
-## Objects & Classes - *Detail*
+## Objects & Classes - *[Detail]()*
 * [Chapter 1: Object Foundations](object-classes/ch1.md)
     * About This Book
     * Objects As Containers
@@ -213,7 +213,7 @@
     * "inheritance" objections
     * protected visibility
 
-## Types & Grammar - *Detail*
+## Types & Grammar - *[Detail]()*
 * [Chapter 1: Primitive Values](types-grammar/ch1.md)
 	* Value Types
     * Empty Values
