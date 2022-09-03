@@ -59,7 +59,7 @@
 
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
-# You Don't Know JS Yet - *[Detail]()*
+# You Don't Know JS Yet - *[detail]()*
 ## Get Started - *[Detail](#get-started---2nd)*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
     * About This Book
@@ -101,7 +101,7 @@
     * Practicing Prototypes
     * Suggested Solutions
 
-## Scope & Closures - *[Detail](#scope--closures---2nd)*
+## Scope & Closures - *[detail](#scope--closures---2nd)*
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
     * About This Book
     * Compiled vs. Interpreted
@@ -165,7 +165,7 @@
     * Modules
     * Suggested Solutions
 
-## Objects & Classes - *[Detail](#objects--classes---2nd)*
+## Objects & Classes - *[detail](#objects--classes---2nd)*
 * [Chapter 1: Object Foundations](object-classes/ch1.md)
     * About This Book
     * Objects As Containers
@@ -213,7 +213,7 @@
     * "inheritance" objections
     * protected visibility
 
-## Types & Grammar - *[Detail](#types--grammar---2nd)*
+## Types & Grammar - *[detail](#types--grammar---2nd)*
 * [Chapter 1: Primitive Values](types-grammar/ch1.md)
 	* Value Types
     * Empty Values
