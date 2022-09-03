@@ -7,7 +7,7 @@
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
 
-# You Don't Know JS - *[1st]()*
+# You Don't Know JS - *1st*
 *[Prefaces](preface.md)* 
 
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
