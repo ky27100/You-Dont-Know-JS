@@ -18,7 +18,7 @@
 * ES.Next & Beyond (not yet started)
 ---
 ## Get Started - *[2nd](#get-started---detail)*
-* [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))*
+*[Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
 * [Chapter 2: Surveying JS](get-started/ch2.md)
 * [Chapter 3: Digging to the Roots of JS](get-started/ch3.md)
@@ -28,7 +28,7 @@
 
 
 ## Scope & Closures - *[2nd](#scope--closures---detail)*
-* [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))*
+*[Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))*
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
 * [Chapter 2: Illustrating Lexical Scope](scope-closures/ch2.md)
 * [Chapter 3: The Scope Chain](scope-closures/ch3.md)
@@ -41,7 +41,7 @@
 * [Appendix B: Practice](scope-closures/apB.md)
 
 ## Objects & Classes - *[2nd](#objects--classes---detail)*
-* [Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
+*[Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
 * [Chapter 1: Object Foundations](object-classes/ch1.md)
 * [Chapter 2: How Objects Work](object-classes/ch2.md)
 * [Chapter 3: Classy Objects](object-classes/ch3.md)
@@ -50,7 +50,7 @@
 * TODO
 
 ## Types & Grammar - *[2nd](#types--grammar---detail)*
-* [Foreword](foreword.md) (by TBA)*
+*[Foreword](foreword.md) (by TBA)*
 * [Chapter 1: Primitive Values](types-grammar/ch1.md)
 * [Chapter 2: Primitive Behaviors](types-grammar/ch2.md)
 * [Chapter 3: Object Values](types-grammar/ch3.md)
