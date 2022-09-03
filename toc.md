@@ -7,7 +7,7 @@
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
 
-# You Don't Know JS - 1st
+# You Don't Know JS - *[1st]()*
 *[Prefaces](preface.md)* 
 
 * ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
@@ -17,7 +17,7 @@
 * ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
 * ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
 ---
-## Up & Going - 1st
+## Up & Going - *[1st]()*
 *[Table of Contents](#up--going) / [Foreword](up\%20&\%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))*
 
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
@@ -25,7 +25,7 @@
 * [Chapter 3: Into YDKJS](up\%20&\%20going/ch3.md)
 * [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
  
-## Scope & Closures - 1st
+## Scope & Closures - *[1st]()*
 *[Table of Contents](#scope--closures) / [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))*
 * [Chapter 1: What is Scope?](scope\%20&\%20closures/ch1.md)
 * [Chapter 2: Lexical Scope](scope\%20&\%20closures/ch2.md)
@@ -37,7 +37,7 @@
 * [Appendix C: Lexical-this](scope\%20&\%20closures/apC.md)
 * [Appendix D: Thank You's!](scope\%20&\%20closures/apD.md)
 
-## *this* & Object Prototypes - 1st
+## *this* & Object Prototypes - *[1st]()*
 *[Table of Contents](#this--object-prototypes) / [Foreword](this\%20&\%20object\%20prototypes/foreword.md) (by [Nick Berardi](https://github.com/nberardi))*
 * [Chapter 1: *this* Or That?](this\%20&\%20object\%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this\%20&\%20object\%20prototypes/ch2.md)
@@ -48,7 +48,7 @@
 * [Appendix A: ES6 *class*](this\%20&\%20object\%20prototypes/apA.md)
 * [Appendix B: Thank You's!](this\%20&\%20object\%20prototypes/apB.md)
 
-## Types & Grammar - 1st
+## Types & Grammar - *[1st]()*
 *[Table of Contents](#types--grammar) / [Foreword](types\%20&\%20grammar/foreword.md) (by [David Walsh](http://davidwalsh.name))*
 
 * [Chapter 1: Types](types\%20&\%20grammar/ch1.md)
@@ -59,7 +59,7 @@
 * [Appendix A: Mixed Environment JavaScript](types\%20&\%20grammar/apA.md)
 * [Appendix B: Thank You's!](types\%20&\%20grammar/apB.md)
 
-## Async & Performance - 1st
+## Async & Performance - *[1st]()*
 *[Table of Contents](#async--performance) / [Foreword](async\%20&\%20performance/foreword.md) (by [Jake Archibald](http://jakearchibald.com))*
 * [Chapter 1: Asynchrony: Now & Later](async\%20&\%20performance/ch1.md)
 * [Chapter 2: Callbacks](async\%20&\%20performance/ch2.md)
@@ -71,7 +71,7 @@
 * [Appendix B: Advanced Async Patterns](async\%20&\%20performance/apB.md)
 * [Appendix C: Thank You's!](async\%20&\%20performance/apC.md)
 
-## ES6 & Beyond - 1st
+## ES6 & Beyond - *[1st]()*
 *[Table of Contents](#es6--beyond) / [Foreword](es6\%20&\%20beyond/foreword.md) (by [Rick Waldron](http://bocoup.com/weblog/author/rick-waldron/))*
 * [Chapter 1: ES? Now & Future](es6\%20&\%20beyond/ch1.md)
 * [Chapter 2: Syntax](es6\%20&\%20beyond/ch2.md)
@@ -85,7 +85,7 @@
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 # You Don't Know JS - 1st
-## Up & Going
+## Up & Going - *[detail]()*
 * [Chapter 1: Into Programming](up\%20&\%20going/ch1.md)
 	* Code
 	* Try It Yourself
@@ -116,7 +116,7 @@
 	* ES6 & Beyond
 * [Appendix A: Thank You's!](up\%20&\%20going/apA.md)
 
-## Scope & Closures
+## Scope & Closures - *[detail]()*
 * [Chapter 1: What is Scope?](scope\%20&\%20closures/ch1.md)
 	* Compiler Theory
 	* Understanding Scope
@@ -145,7 +145,7 @@
 * [Appendix C: Lexical-this](scope\%20&\%20closures/apC.md)
 * [Appendix D: Thank You's!](scope\%20&\%20closures/apD.md)
 
-## *this* & Object Prototypes
+## *this* & Object Prototypes - *[detail]()*
 * [Chapter 1: *this* Or That?](this\%20&\%20object\%20prototypes/ch1.md)
 	* Why `this`?
 	* Confusions
@@ -180,7 +180,7 @@
 * [Appendix A: ES6 *class*](this\%20&\%20object\%20prototypes/apA.md)
 * [Appendix B: Thank You's!](this\%20&\%20object\%20prototypes/apB.md)
 
-## Types & Grammar
+## Types & Grammar - *[detail]()*
 * [Chapter 1: Types](types\%20&\%20grammar/ch1.md)
 	* A Type By Any Other Name...
 	* Built-in Types
@@ -214,7 +214,7 @@
 * [Appendix A: Mixed Environment JavaScript](types\%20&\%20grammar/apA.md)
 * [Appendix B: Thank You's!](types\%20&\%20grammar/apB.md)
 
-## Async & Performance
+## Async & Performance - *[detail]()*
 * [Chapter 1: Asynchrony: Now & Later](async\%20&\%20performance/ch1.md)
 	* A Program In Chunks
 	* Event Loop
@@ -260,7 +260,7 @@
 * [Appendix B: Advanced Async Patterns](async\%20&\%20performance/apB.md)
 * [Appendix C: Thank You's!](async\%20&\%20performance/apC.md)
 
-## ES6 & Beyond
+## ES6 & Beyond - *[detail]()*
 * [Chapter 1: ES? Now & Future](es6\%20&\%20beyond/ch1.md)
 	* Versioning
 	* Transpiling
