@@ -17,7 +17,7 @@
 * Sync & Async (not yet started)
 * ES.Next & Beyond (not yet started)
 ---
-## Get Started - *[2nd]()*
+## Get Started - *[2nd](#get-started---detail)*
 *[Table of Contents](#get-started) / [Foreword](get-started/foreword.md) (by [Brian Holt](https://twitter.com/holtbt))*
 * [Chapter 1: What Is JavaScript?](get-started/ch1.md)
 * [Chapter 2: Surveying JS](get-started/ch2.md)
@@ -27,7 +27,7 @@
 * [Appendix B: Practice, Practice, Practice!](get-started/apB.md)
 
 
-## Scope & Closures - *[2nd]()*
+## Scope & Closures - *[2nd](#scope--closures---detail)*
 *[Table of Contents](#scope--closures) / [Foreword](scope-closures/foreword.md) (by [Sarah Drasner](https://sarah.dev/))*
 * [Chapter 1: What's the Scope?](scope-closures/ch1.md)
 * [Chapter 2: Illustrating Lexical Scope](scope-closures/ch2.md)
@@ -40,7 +40,7 @@
 * [Appendix A: Exploring Further](scope-closures/apA.md)
 * [Appendix B: Practice](scope-closures/apB.md)
 
-## Objects & Classes - *[2nd]()*
+## Objects & Classes - *[2nd](#objects--classes---detail)*
 *[Table of Contents](#objects--classes) / [Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
 * [Chapter 1: Object Foundations](object-classes/ch1.md)
 * [Chapter 2: How Objects Work](object-classes/ch2.md)
@@ -49,7 +49,7 @@
 * [Chapter 5: Delegation](object-classes/ch5.md)
 * TODO
 
-## Types & Grammar - *[2nd]()*
+## Types & Grammar - *[2nd](#types--grammar---detail)*
 *[Table of Contents](#types--grammar) / [Foreword](foreword.md) (by TBA)*
 * [Chapter 1: Primitive Values](types-grammar/ch1.md)
 * [Chapter 2: Primitive Behaviors](types-grammar/ch2.md)
