@@ -677,7 +677,7 @@ Inheritance is a powerful tool for organizing data/behavior in separate logical 
 
 ### Modules
 
-The module pattern has essentially the same goal as the class pattern, which is **to group data and behavior together into logical units**. Also like classes, modules can "include" or "access" the data and behaviors of other modules, for cooperation's sake.
+The module pattern has essentially the same goal as the class pattern, which is :boom:**to group data and behavior together into logical units**. Also like classes, modules can "include" or "access" the data and behaviors of other modules, for cooperation's sake.
 
 But modules have some important differences from classes. Most notably, the syntax is entirely different.
 
