@@ -17,7 +17,7 @@ var myName = "Kyle";
 var yourName = myName;
 ```
 
-Here, the `yourName` variable has a separate copy of the `"Kyle"` string from the value that's stored in `myName`. That's because the value is a primitive, and primitive values are always assigned/passed as **value copies**.
+Here, the `yourName` variable has a separate copy of the `"Kyle"` string from the value that's stored in `myName`. That's because the value is a primitive, and :boom:primitive values are always assigned/passed as **value copies**.
 
 Here's how you can prove there's two separate values involved:
 
