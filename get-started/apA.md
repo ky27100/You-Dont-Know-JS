@@ -59,7 +59,7 @@ console.log(yourAddress.street);
 
 Because the value assigned to `myAddress` is an object, it's held/assigned by reference, and thus the assignment to the `yourAddress` variable is a copy of the reference, not the object value itself. That's why the updated value assigned to the `myAddress.street` is reflected when we access `yourAddress.street`. `myAddress` and `yourAddress` have copies of the reference to the single shared object, so an update to one is an update to both.
 
-Again, JS chooses the value-copy vs. reference-copy behavior based on the value type. Primitives are held by value, objects are held by reference. There's no way to override this in JS, in either direction.
+Again, JS chooses the value-copy vs. reference-copy behavior based on the value type. :boom:Primitives are held by value, objects are held by reference. There's no way to override this in JS, in either direction.
 
 ## So Many Function Forms
 
