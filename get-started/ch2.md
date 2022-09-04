@@ -102,7 +102,7 @@ We used `1` for the element in the second position, instead of `2`, because like
 
 In addition to strings, numbers, and booleans, two other *primitive* values in JS programs are `null` and `undefined`. While there are differences between them (some historic and some contemporary), for the most part both values serve the purpose of indicating *emptiness* (or absence) of a value.
 
-Many developers prefer to treat them both consistently in this fashion, which is to say that the values are assumed to be indistinguishable. If care is taken, this is often possible. However, [it's safest and best to use only `undefined` as the single empty value](#you-dont-know-js-yet---detail), even though `null` seems attractive in that it's shorter to type!
+Many developers prefer to treat them both consistently in this fashion, which is to say that the values are assumed to be indistinguishable. If care is taken, this is often possible. However, <u>it's safest and best to use only `undefined` as the single empty value</u>, even though `null` seems attractive in that it's shorter to type!
 
 ```js
 while (value != undefined) {
