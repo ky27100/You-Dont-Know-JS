@@ -140,8 +140,8 @@
 * [Chapter 7: Using Closures](scope-closures/ch7.md)
     * See the Closure
     * The Closure Lifecycle and Garbage Collection (GC)
-    * Why Closure?
     * An Alternative Perspective
+    * Why Closure?
     * Closer to Closure
 * [Chapter 8: The Module Pattern](scope-closures/ch8.md)
     * Encapsulation and Least Exposure (POLE)
