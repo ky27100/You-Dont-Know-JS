@@ -42,11 +42,11 @@
 
 ## Objects & Classes - *[2nd](#objects--classes---detail)*
 *[Foreword](foreword.md) (by [Rick Waldron](https://twitter.com/rwaldron))*
-* [Chapter 1: Object Foundations](object-classes/ch1.md)
-* [Chapter 2: How Objects Work](object-classes/ch2.md)
-* [Chapter 3: Classy Objects](object-classes/ch3.md)
-* [Chapter 4: This Works](object-classes/ch4.md)
-* [Chapter 5: Delegation](object-classes/ch5.md)
+* [Chapter 1: Object Foundations](objects-classes/ch1.md)
+* [Chapter 2: How Objects Work](objects-classes/ch2.md)
+* [Chapter 3: Classy Objects](objects-classes/ch3.md)
+* [Chapter 4: This Works](objects-classes/ch4.md)
+* [Chapter 5: Delegation](objects-classes/ch5.md)
 * TODO
 
 ## Types & Grammar - *[2nd](#types--grammar---detail)*
@@ -166,7 +166,7 @@
     * Suggested Solutions
 
 ## Objects & Classes - *[detail](#objects--classes---2nd)*
-* [Chapter 1: Object Foundations](object-classes/ch1.md)
+* [Chapter 1: Object Foundations](objects-classes/ch1.md)
     * About This Book
     * Objects As Containers
     * Defining Properties
@@ -176,14 +176,14 @@
     * Determining Container Contents
     * Temporary Containers
     * Containers Are Collections Of Properties
-* [Chapter 2: How Objects Work](object-classes/ch2.md)
+* [Chapter 2: How Objects Work](objects-classes/ch2.md)
     * Property Descriptors
     * Object Sub-Types
     * Object Characteristics
     * Extending the MOP
     * `[[Prototype]]` Chain
     * Objects Behavior
-* [Chapter 3: Classy Objects](object-classes/ch3.md)
+* [Chapter 3: Classy Objects](objects-classes/ch3.md)
     * When Should I Class-Orient My Code?
     * Keep It `class`y
     * Class Instance `this`
@@ -191,7 +191,7 @@
     * Static Class Behavior
     * Private Class Behavior
     * Class Example
-* [Chapter 4: This Works](object-classes/ch4.md)
+* [Chapter 4: This Works](objects-classes/ch4.md)
     * This Aware
     * This Is It!
     * An Arrow Points Somewhere
