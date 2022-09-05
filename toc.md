@@ -197,7 +197,7 @@
     * An Arrow Points Somewhere
     * Variations
     * Stay Aware
-* [Chapter 5: Delegation](object-classes/ch5.md)
+* [Chapter 5: Delegation](objects-classes/ch5.md)
     * Preamble
     * What's A Constructor, Anyway?
     * Ditching Class Thinking
